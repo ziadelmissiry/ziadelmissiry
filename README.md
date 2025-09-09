@@ -21,46 +21,40 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/yourusername/sales-dashboard">
-        <h2>📊</h2>
-        <b>Sales Dashboard</b><br>
-        <sub>Interactive Power BI dashboard analyzing sales KPIs</sub>
+        <div style="font-size: 60px;">📊</div>
+        <b>Sales Dashboard</b>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/yourusername/ml-stock-predictor">
-        <h2>🤖</h2>
-        <b>ML Stock Predictor</b><br>
-        <sub>Python model predicting stock price trends</sub>
+        <div style="font-size: 60px;">🤖</div>
+        <b>ML Stock Predictor</b>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/yourusername/sql-automation-tool">
-        <h2>🛠</h2>
-        <b>SQL Automation</b><br>
-        <sub>Automated financial reporting with SQL + Python</sub>
+        <div style="font-size: 60px;">🛠</div>
+        <b>SQL Automation</b>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/yourusername/cloud-monitor">
-        <h2>☁️</h2>
-        <b>Cloud Monitor</b><br>
-        <sub>Monitoring system with AWS + Azure integration</sub>
+        <div style="font-size: 60px;">☁️</div>
+        <b>Cloud Monitor</b>
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/yourusername/another-project">
-        <h2>📈</h2>
-        <b>Financial Analyzer</b><br>
-        <sub>Data visualization & financial insights</sub>
+      <a href="https://github.com/yourusername/financial-analyzer">
+        <div style="font-size: 60px;">📈</div>
+        <b>Financial Analyzer</b>
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/yourusername/yet-another-project">
-        <h2>⚡</h2>
-        <b>Process Optimizer</b><br>
-        <sub>Automation of business workflows</sub>
+      <a href="https://github.com/yourusername/process-optimizer">
+        <div style="font-size: 60px;">⚡</div>
+        <b>Process Optimizer</b>
       </a>
     </td>
   </tr>
