@@ -17,8 +17,34 @@
 
 # 🚀 Featured Projects
 
-[![📊 Sales Dashboard](https://img.shields.io/badge/-Sales%20Dashboard-blue?style=for-the-badge)](https://github.com/yourusername/sales-dashboard)
-[![🤖 ML Stock Predictor](https://img.shields.io/badge/-ML%20Stock%20Predictor-orange?style=for-the-badge)](https://github.com/yourusername/ml-stock-predictor)
-[![🛠 SQL Automation](https://img.shields.io/badge/-SQL%20Automation-success?style=for-the-badge)](https://github.com/yourusername/sql-automation-tool)
-[![☁️ Cloud Monitor](https://img.shields.io/badge/-Cloud%20Monitor-lightgrey?style=for-the-badge)](https://github.com/yourusername/cloud-monitor)
+<div align="center">
+
+<a href="https://github.com/yourusername/sales-dashboard">
+  <img src="https://github.com/ziadelmissiry/ziadelmissiry/assets/placeholder/sales.png" width="80px" alt="Sales Dashboard"/><br>
+  📊 <b>Sales Dashboard</b>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/yourusername/ml-stock-predictor">
+  <img src="https://github.com/ziadelmissiry/ziadelmissiry/assets/placeholder/robot.png" width="80px" alt="ML Stock Predictor"/><br>
+  🤖 <b>ML Stock Predictor</b>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/yourusername/sql-automation-tool">
+  <img src="https://github.com/ziadelmissiry/ziadelmissiry/assets/placeholder/tools.png" width="80px" alt="SQL Automation"/><br>
+  🛠 <b>SQL Automation</b>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/yourusername/cloud-monitor">
+  <img src="https://github.com/ziadelmissiry/ziadelmissiry/assets/placeholder/cloud.png" width="80px" alt="Cloud Monitor"/><br>
+  ☁️ <b>Cloud Monitor</b>
+</a>
+
+</div>
+
 
