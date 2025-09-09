@@ -14,3 +14,11 @@
 [![](https://visitcount.itsvg.in/api?id=ziadelmissiry&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# 🚀 Featured Projects
+
+[![📊 Sales Dashboard](https://img.shields.io/badge/-Sales%20Dashboard-blue?style=for-the-badge)](https://github.com/yourusername/sales-dashboard)
+[![🤖 ML Stock Predictor](https://img.shields.io/badge/-ML%20Stock%20Predictor-orange?style=for-the-badge)](https://github.com/yourusername/ml-stock-predictor)
+[![🛠 SQL Automation](https://img.shields.io/badge/-SQL%20Automation-success?style=for-the-badge)](https://github.com/yourusername/sql-automation-tool)
+[![☁️ Cloud Monitor](https://img.shields.io/badge/-Cloud%20Monitor-lightgrey?style=for-the-badge)](https://github.com/yourusername/cloud-monitor)
+
