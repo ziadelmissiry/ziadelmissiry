@@ -17,45 +17,39 @@
 
 # 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/yourusername/sales-dashboard">
-        <div style="font-size: 60px;">📊</div>
-        <b>Sales Dashboard</b>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/yourusername/ml-stock-predictor">
-        <div style="font-size: 60px;">🤖</div>
-        <b>ML Stock Predictor</b>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/yourusername/sql-automation-tool">
-        <div style="font-size: 60px;">🛠</div>
-        <b>SQL Automation</b>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/yourusername/cloud-monitor">
-        <div style="font-size: 60px;">☁️</div>
-        <b>Cloud Monitor</b>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/yourusername/financial-analyzer">
-        <div style="font-size: 60px;">📈</div>
-        <b>Financial Analyzer</b>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/yourusername/process-optimizer">
-        <div style="font-size: 60px;">⚡</div>
-        <b>Process Optimizer</b>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px;">
+
+    <a href="https://github.com/yourusername/sales-dashboard" style="text-decoration: none;">
+      <div style="font-size: 80px;">📊</div>
+      <div style="font-size: 20px; font-weight: bold;">Sales Dashboard</div>
+    </a>
+
+    <a href="https://github.com/yourusername/ml-stock-predictor" style="text-decoration: none;">
+      <div style="font-size: 80px;">🤖</div>
+      <div style="font-size: 20px; font-weight: bold;">ML Stock Predictor</div>
+    </a>
+
+    <a href="https://github.com/yourusername/sql-automation-tool" style="text-decoration: none;">
+      <div style="font-size: 80px;">🛠</div>
+      <div style="font-size: 20px; font-weight: bold;">SQL Automation</div>
+    </a>
+
+    <a href="https://github.com/yourusername/cloud-monitor" style="text-decoration: none;">
+      <div style="font-size: 80px;">☁️</div>
+      <div style="font-size: 20px; font-weight: bold;">Cloud Monitor</div>
+    </a>
+
+    <a href="https://github.com/yourusername/financial-analyzer" style="text-decoration: none;">
+      <div style="font-size: 80px;">📈</div>
+      <div style="font-size: 20px; font-weight: bold;">Financial Analyzer</div>
+    </a>
+
+    <a href="https://github.com/yourusername/process-optimizer" style="text-decoration: none;">
+      <div style="font-size: 80px;">⚡</div>
+      <div style="font-size: 20px; font-weight: bold;">Process Optimizer</div>
+    </a>
+
+  </div>
+</div>
