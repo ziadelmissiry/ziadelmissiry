@@ -20,31 +20,22 @@
 <div align="center">
 
 <a href="https://github.com/yourusername/sales-dashboard">
-  <img src="https://github.com/ziadelmissiry/ziadelmissiry/assets/placeholder/sales.png" width="80px" alt="Sales Dashboard"/><br>
-  📊 <b>Sales Dashboard</b>
+  <h2>📊 Sales Dashboard</h2>
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/yourusername/ml-stock-predictor">
-  <img src="https://github.com/ziadelmissiry/ziadelmissiry/assets/placeholder/robot.png" width="80px" alt="ML Stock Predictor"/><br>
-  🤖 <b>ML Stock Predictor</b>
+  <h2>🤖 ML Stock Predictor</h2>
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/yourusername/sql-automation-tool">
-  <img src="https://github.com/ziadelmissiry/ziadelmissiry/assets/placeholder/tools.png" width="80px" alt="SQL Automation"/><br>
-  🛠 <b>SQL Automation</b>
+  <h2>🛠 SQL Automation</h2>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
 <a href="https://github.com/yourusername/cloud-monitor">
-  <img src="https://github.com/ziadelmissiry/ziadelmissiry/assets/placeholder/cloud.png" width="80px" alt="Cloud Monitor"/><br>
-  ☁️ <b>Cloud Monitor</b>
+  <h2>☁️ Cloud Monitor</h2>
 </a>
 
 </div>
+
 
 
