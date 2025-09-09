@@ -17,25 +17,51 @@
 
 # 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/yourusername/sales-dashboard">
-  <h2>📊 Sales Dashboard</h2>
-</a>
-
-<a href="https://github.com/yourusername/ml-stock-predictor">
-  <h2>🤖 ML Stock Predictor</h2>
-</a>
-
-<a href="https://github.com/yourusername/sql-automation-tool">
-  <h2>🛠 SQL Automation</h2>
-</a>
-
-<a href="https://github.com/yourusername/cloud-monitor">
-  <h2>☁️ Cloud Monitor</h2>
-</a>
-
-</div>
-
-
-
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/yourusername/sales-dashboard">
+        <h2>📊</h2>
+        <b>Sales Dashboard</b><br>
+        <sub>Interactive Power BI dashboard analyzing sales KPIs</sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/yourusername/ml-stock-predictor">
+        <h2>🤖</h2>
+        <b>ML Stock Predictor</b><br>
+        <sub>Python model predicting stock price trends</sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/yourusername/sql-automation-tool">
+        <h2>🛠</h2>
+        <b>SQL Automation</b><br>
+        <sub>Automated financial reporting with SQL + Python</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/yourusername/cloud-monitor">
+        <h2>☁️</h2>
+        <b>Cloud Monitor</b><br>
+        <sub>Monitoring system with AWS + Azure integration</sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/yourusername/another-project">
+        <h2>📈</h2>
+        <b>Financial Analyzer</b><br>
+        <sub>Data visualization & financial insights</sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/yourusername/yet-another-project">
+        <h2>⚡</h2>
+        <b>Process Optimizer</b><br>
+        <sub>Automation of business workflows</sub>
+      </a>
+    </td>
+  </tr>
+</table>
